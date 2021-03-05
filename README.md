@@ -1,2 +1,2 @@
 # card_game
-Database card game that I did on the Raspberry Pi Foundation Programming 103: Saving and structuring data course
+Database card game that I worked on as part of the Raspberry Pi Foundation Programming 103: Saving and Structuring Data course.
